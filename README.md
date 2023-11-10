@@ -1,2 +1,2 @@
-# JavaScript-Valida-oFormul-rio
+# JavaScript - Validação de Formulário
 Atividade feita durante a aula sobre validação de formulário com JavaScript
